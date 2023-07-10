@@ -1,0 +1,42 @@
+body{
+    /* text-align:left; */
+    background-color: lightblue;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 20px;
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p{
+    font-size: 24px;
+}
+button{
+    margin-left: 90%;
+    background-color: darkgoldenrod;
+}
+
+.para {
+    display: inline;
+    /* text-align: center; */
+    vertical-align:bottom;
+}
+
+img {
+    float: left;
+}
+
+li{
+    font-size: 24px;
+}
